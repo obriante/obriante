@@ -6,10 +6,6 @@ Welcome to my GitHub profile!
 
 I am an experienced software engineering leader based in Zürich, Switzerland, with over 12 years of expertise in embedded systems development and applied research. My career has been dedicated to driving innovative R&D initiatives and leading cross-functional teams to deliver advanced technologies. I excel in optimizing workflows, enhancing product performance, and fostering collaboration.
 
-## Connect with Me
-
-- **LinkedIn**: [oraziobriante](https://www.linkedin.com/in/oraziobriante)
-
 <!--
 **obriante/obriante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
